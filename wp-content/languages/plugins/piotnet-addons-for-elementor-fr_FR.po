@@ -1,0 +1,1800 @@
+# Translation of Plugins - Piotnet Addons For Elementor - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Piotnet Addons For Elementor - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-21 00:05:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Piotnet Addons For Elementor - Development (trunk)\n"
+
+#: widgets/pafe-video-playlist.php:389
+msgid "Video List: Title"
+msgstr "Liste de vidéos : titre"
+
+#: widgets/compatibility/wpml/pafe-video-list-wpml.php:25
+msgid "Video List: Title Item"
+msgstr "Liste de vidéos : titre de l’élément"
+
+#: widgets/compatibility/wpml/pafe-table-wpml.php:25
+#: widgets/compatibility/wpml/pafe-table-wpml.php:52
+msgid "Table Head: Title Item"
+msgstr "En-tête du tableau : titre de l’élément"
+
+#: widgets/pafe-table.php:193
+msgid "Text URL"
+msgstr "URL du texte"
+
+#: widgets/pafe-table.php:256 widgets/pafe-table.php:279
+msgid "Icon Spacing"
+msgstr "Espacement de l’icône"
+
+#. Author of the plugin
+msgid "Piotnet"
+msgstr "Piotnet"
+
+#: widgets/pafe-video-playlist.php:76
+msgid "Autoplay"
+msgstr "Lecture automatique"
+
+#: controls/pafe-form-style.php:511
+msgid "Button Border Radius"
+msgstr "Rayon de la bordure du bouton"
+
+#: controls/pafe-form-style.php:499
+msgid "Button Border"
+msgstr "Bordure du bouton"
+
+#: controls/pafe-form-style.php:434
+msgid "Hover Button"
+msgstr "Survol du bouton"
+
+#: controls/pafe-form-style.php:397 controls/pafe-form-style.php:444
+msgid "Button Color"
+msgstr "Couleur du bouton"
+
+#: controls/pafe-form-style.php:387
+msgid "Normal Button"
+msgstr "Bouton normal"
+
+#: controls/pafe-form-style.php:368
+msgid "Button Margin"
+msgstr "Marge du bouton"
+
+#: controls/pafe-form-style.php:337
+msgid "Button Width"
+msgstr "Largeur du bouton"
+
+#: controls/pafe-form-style.php:302
+msgid "Placeholder Color"
+msgstr "Couleur du texte indicatif"
+
+#: controls/pafe-form-style.php:286
+msgid "Placeholder"
+msgstr "Texte indicatif"
+
+#: controls/pafe-form-style.php:217
+msgid "Label"
+msgstr "Libellé"
+
+#: controls/pafe-form-style.php:182
+msgid "Text Area Padding"
+msgstr "Marge interne de la zone de texte"
+
+#: controls/pafe-form-style.php:165
+msgid "Input Border Radius"
+msgstr "Rayon de bordure de l’entrée"
+
+#: controls/pafe-form-style.php:135
+msgid "Input Padding"
+msgstr "Marge interne de l’entrée"
+
+#: controls/pafe-form-style.php:102
+msgid "Row Gap"
+msgstr "Écart de rangée"
+
+#: controls/pafe-form-style.php:28
+msgid "Enable Form Style"
+msgstr "Activer le style de formulaire"
+
+#: controls/pafe-form-style.php:20
+msgid "PAFE Form Style"
+msgstr "Style de formulaire PAFE"
+
+#: controls/pafe-particles.php:226
+msgid "Remove"
+msgstr "Retirer"
+
+#: controls/pafe-particles.php:224
+msgid "Push"
+msgstr "Pousser"
+
+#: controls/pafe-particles.php:218
+msgid "Click Effect"
+msgstr "Effet au clic"
+
+#: controls/pafe-particles.php:207
+msgid "Grab Bubble"
+msgstr "Saisir la bulle"
+
+#: controls/pafe-particles.php:206 controls/pafe-particles.php:225
+msgid "Bubble"
+msgstr "Bulle"
+
+#: controls/pafe-particles.php:205
+msgid "Grab"
+msgstr "Saisir"
+
+#: controls/pafe-particles.php:204 controls/pafe-particles.php:223
+msgid "Repulse"
+msgstr "Repousser"
+
+#: controls/pafe-particles.php:203 controls/pafe-particles.php:222
+msgid "None"
+msgstr "Aucun"
+
+#: controls/pafe-particles.php:199
+msgid "Hover Effect"
+msgstr "Effet au survol"
+
+#: controls/pafe-particles.php:175
+msgid "Linked Opacity"
+msgstr "Opacité liée"
+
+#: controls/pafe-particles.php:159
+msgid "Linked Color"
+msgstr "Couleur liée"
+
+#: controls/pafe-particles.php:144
+msgid "Particles Speed"
+msgstr "Vitesse des particules"
+
+#: controls/pafe-particles.php:121
+msgid "Particles Opacity"
+msgstr "Opacité des particules"
+
+#: controls/pafe-particles.php:106
+msgid "Particles Size"
+msgstr "Taille des particules"
+
+#: controls/pafe-particles.php:80
+msgid "Star"
+msgstr "Étoile"
+
+#: controls/pafe-particles.php:79
+msgid "Polygon"
+msgstr "Polygone"
+
+#: controls/pafe-particles.php:78
+msgid "Triangle"
+msgstr "Triangle"
+
+#: controls/pafe-particles.php:77
+msgid "Edge"
+msgstr "Bord"
+
+#: controls/pafe-particles.php:76
+msgid "Circle"
+msgstr "Cercle"
+
+#: controls/pafe-particles.php:72
+msgid "Particles Shape"
+msgstr "Forme des particules"
+
+#: controls/pafe-particles.php:57
+msgid "Particles Color"
+msgstr "Couleur des particules"
+
+#: controls/pafe-particles.php:42
+msgid "Particles Quantity"
+msgstr "Nombre de particules"
+
+#: controls/pafe-particles.php:28
+msgid "Enable Particles"
+msgstr "Activer les particules"
+
+#: controls/pafe-particles.php:20
+msgid "PAFE Particles"
+msgstr "Particules PAFE"
+
+#: widgets/pafe-table.php:869
+msgid "EVEN"
+msgstr "Pair"
+
+#: widgets/pafe-table.php:762
+msgid "ODD"
+msgstr "Impair"
+
+#: widgets/pafe-table.php:748
+msgid "Row Style"
+msgstr "Style de rangée"
+
+#: widgets/pafe-table.php:636
+msgid "Column Style"
+msgstr "Style de colonne"
+
+#: widgets/pafe-table.php:558 widgets/pafe-table.php:670
+#: widgets/pafe-table.php:792 widgets/pafe-table.php:899
+msgid "Icon Color"
+msgstr "Couleur de l’icône"
+
+#: widgets/pafe-table.php:524
+msgid "First Column Style"
+msgstr "Style de la 1ère colonne"
+
+#: widgets/pafe-table.php:493 widgets/pafe-table.php:605
+#: widgets/pafe-table.php:717 widgets/pafe-table.php:839
+#: widgets/pafe-table.php:946
+msgid "Text Shadow"
+msgstr "Ombre du texte"
+
+#: widgets/pafe-table.php:480 widgets/pafe-table.php:592
+#: widgets/pafe-table.php:704 widgets/pafe-table.php:826
+#: widgets/pafe-table.php:933
+msgid "Backround Color"
+msgstr "Couleur d’arrière-plan"
+
+#: widgets/pafe-table.php:468 widgets/pafe-table.php:546
+#: widgets/pafe-table.php:658 widgets/pafe-table.php:780
+#: widgets/pafe-table.php:887
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: widgets/pafe-table.php:449
+msgid "Head Style"
+msgstr "Style de l’en-tête"
+
+#: widgets/pafe-table.php:379
+msgid "Table Style"
+msgstr "Style de tableau"
+
+#: widgets/pafe-table.php:368
+msgid "{{{pafe_table_body_row_type}}}: {{{pafe_table_body_item_title}}}"
+msgstr "{{{pafe_table_body_row_type}}} : {{{pafe_table_body_item_title}}}"
+
+#: widgets/pafe-table.php:302
+msgid "Row Span"
+msgstr "Écart des rangées"
+
+#: widgets/pafe-table.php:243
+msgid "After"
+msgstr "Après"
+
+#: widgets/pafe-table.php:242
+msgid "Before"
+msgstr "Avant"
+
+#: widgets/pafe-table.php:239
+msgid "Icon Position"
+msgstr "Position de l’icône"
+
+#: widgets/pafe-table.php:213
+msgid "Enable Icon"
+msgstr "Activer l’icône"
+
+#: widgets/pafe-table.php:169
+msgid "Column"
+msgstr "Colonne"
+
+#: widgets/pafe-table.php:168
+msgid "Row"
+msgstr "Rangée"
+
+#: widgets/pafe-table.php:157
+msgid "Body"
+msgstr "Corps"
+
+#: widgets/pafe-table.php:144
+msgid "{{{pafe_table_head_item_title}}}"
+msgstr "{{{pafe_table_head_item_title}}}"
+
+#: widgets/pafe-table.php:132 widgets/pafe-table.php:314
+msgid "Column Span"
+msgstr "Écart des colonnes"
+
+#: widgets/pafe-table.php:69
+msgid "Head"
+msgstr "En-tête"
+
+#: widgets/pafe-table.php:47
+msgid "Layout"
+msgstr "Mise en page"
+
+#: widgets/pafe-table.php:10
+msgid "PAFE Table"
+msgstr "Tableau PAFE"
+
+#: widgets/pafe-hotspot.php:618
+msgid "Item content. Click the edit button to change this text."
+msgstr "Contenu de l’élément. Cliquez sur le bouton « Modifier » pour changer ce texte."
+
+#: widgets/pafe-hotspot.php:617
+msgid "Marker Name"
+msgstr "Nom du marqueur"
+
+#: widgets/pafe-hotspot.php:514
+msgid "Trigger Event"
+msgstr "Évènement déclencheur"
+
+#: widgets/pafe-hotspot.php:372
+msgid "Vertical Position"
+msgstr "Position verticale"
+
+#: widgets/pafe-hotspot.php:347
+msgid "Horizontal Position"
+msgstr "Position horizontale"
+
+#: widgets/pafe-hotspot.php:319
+msgid "Opacity"
+msgstr "Opacité"
+
+#: widgets/pafe-hotspot.php:275
+msgid "Marker Text"
+msgstr "Texte du marqueur"
+
+#: widgets/pafe-hotspot.php:247
+msgid "Marker Image Size"
+msgstr "Taille de l’image du marqueur"
+
+#: widgets/pafe-hotspot.php:232
+msgid "Marker Image"
+msgstr "Image du marqueur"
+
+#: widgets/pafe-hotspot.php:217
+msgid "Frame Border"
+msgstr "Bordure du cadre"
+
+#: widgets/pafe-hotspot.php:190 widgets/pafe-table.php:570
+#: widgets/pafe-table.php:682 widgets/pafe-table.php:804
+#: widgets/pafe-table.php:911
+msgid "Icon Size"
+msgstr "Taille de l’icône"
+
+#: widgets/pafe-hotspot.php:169
+msgid "Secondary Color"
+msgstr "Couleur secondaire"
+
+#: widgets/pafe-hotspot.php:149
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: widgets/pafe-hotspot.php:138
+msgid "Framed"
+msgstr "Encadré"
+
+#: widgets/pafe-hotspot.php:137
+msgid "Stacked"
+msgstr "Empilé"
+
+#: widgets/pafe-hotspot.php:136
+msgid "Default"
+msgstr "Par défaut"
+
+#: widgets/pafe-hotspot.php:132
+msgid "View"
+msgstr "Voir"
+
+#: widgets/pafe-hotspot.php:108 widgets/pafe-table.php:96
+#: widgets/pafe-table.php:178
+msgid "Text"
+msgstr "Texte"
+
+#: widgets/pafe-hotspot.php:74
+msgid "Marker"
+msgstr "Marqueur"
+
+#: widgets/pafe-hotspot.php:10
+msgid "PAFE Hotspot"
+msgstr "Image avec infobulles PAFE"
+
+#: widgets/pafe-progressbar.php:271
+msgid "Trail Color"
+msgstr "Couleur de la piste"
+
+#: widgets/pafe-progressbar.php:249
+msgid "Trail Width"
+msgstr "Largeur de la piste"
+
+#: widgets/pafe-progressbar.php:237
+msgid "Stroke Color"
+msgstr "Couleur du trait"
+
+#: widgets/pafe-progressbar.php:215
+msgid "Stroke Width"
+msgstr "Largeur du trait"
+
+#: controls/pafe-form-style.php:233 widgets/pafe-progressbar.php:165
+msgid "Label Color"
+msgstr "Couleur du libellé"
+
+#: widgets/pafe-progressbar.php:122
+msgid "Progress Bar Style"
+msgstr "Style de la barre de progression"
+
+#: widgets/pafe-progressbar.php:97
+msgid "Duration"
+msgstr "Durée"
+
+#: widgets/pafe-progressbar.php:88 widgets/pafe-table.php:216
+msgid "No"
+msgstr "Non"
+
+#: widgets/pafe-progressbar.php:87 widgets/pafe-table.php:215
+msgid "Yes"
+msgstr "Oui"
+
+#: widgets/pafe-progressbar.php:85
+msgid "Show Label"
+msgstr "Afficher le libellé"
+
+#: widgets/pafe-progressbar.php:64
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#: widgets/pafe-progressbar.php:43
+msgid "Progress Bar Content"
+msgstr "Contenu de la barre de progression"
+
+#: widgets/pafe-progressbar.php:10
+msgid "PAFE Progress Bar"
+msgstr "Barre de progression PAFE"
+
+#: inc/features.php:121
+msgid "Table"
+msgstr "Tableau"
+
+#: inc/features.php:107
+msgid "Particles"
+msgstr "Particules"
+
+#: inc/features.php:100
+msgid "Hotspot"
+msgstr "Point d’intérêt"
+
+#: inc/features.php:93
+msgid "Form Style"
+msgstr "Style du formulaire"
+
+#: widgets/pafe-countdown-cart.php:378
+msgid "Background Stock"
+msgstr "Arrière-plan du restant"
+
+#: widgets/pafe-countdown-cart.php:354
+msgid "Background Total"
+msgstr "Arrière-plan du total"
+
+#: inc/features.php:114 widgets/pafe-countdown-cart.php:282
+msgid "Progress Bar"
+msgstr "Barre de progression"
+
+#: widgets/pafe-countdown-cart.php:245
+msgid "Number"
+msgstr "Nombre"
+
+#: widgets/pafe-countdown-cart.php:156
+msgid "Hide Availability Elementor"
+msgstr "Masquer la disponibilité d’Elementor"
+
+#: widgets/pafe-countdown-cart.php:65
+msgid "Product ID"
+msgstr "ID du produit"
+
+#: widgets/pafe-countdown-cart.php:56 widgets/pafe-countdown-cart.php:209
+msgid "Label After"
+msgstr "Libellé après"
+
+#: widgets/pafe-countdown-cart.php:47 widgets/pafe-countdown-cart.php:173
+msgid "Label Before"
+msgstr "Libellé avant"
+
+#: widgets/pafe-countdown-cart.php:8
+msgid "PAFE Countdown Cart"
+msgstr "Compte à rebours du panier PAFE"
+
+#: widgets/pafe-posts-list.php:1082
+msgid "Content Padding"
+msgstr "Marge interne du contenu"
+
+#: widgets/pafe-posts-list.php:1064
+msgid "Content Background"
+msgstr "Arrière-plan du contenu"
+
+#: widgets/pafe-posts-list.php:912
+msgid "Background Ovelay"
+msgstr "Superposition d’arrière-plan"
+
+#: widgets/pafe-posts-list.php:828
+msgid "Featured Post"
+msgstr "Publication mise en avant"
+
+#: widgets/pafe-posts-list.php:814 widgets/pafe-posts-list.php:1096
+msgid "Aspect Ratio"
+msgstr "Ratio d’aspect"
+
+#: widgets/pafe-posts-list.php:806
+msgid "Post Image"
+msgstr "Image de la publication"
+
+#: widgets/pafe-posts-list.php:773
+msgid "Posts Author"
+msgstr "Auteur des publications"
+
+#: widgets/pafe-posts-list.php:750
+msgid "Length"
+msgstr "Longueur"
+
+#: widgets/pafe-posts-list.php:718
+msgid "Posts Text"
+msgstr "Texte des publications"
+
+#: widgets/pafe-posts-list.php:671
+msgid "Post Title"
+msgstr "Titre de la publication"
+
+#: widgets/pafe-posts-list.php:615
+msgid "Widget Title"
+msgstr "Titre du widget"
+
+#: widgets/pafe-posts-list.php:438
+msgid "Space Bottom"
+msgstr "Espacement inférieur"
+
+#: widgets/pafe-posts-list.php:431
+msgid "Filter"
+msgstr "Filtrer"
+
+#: widgets/pafe-posts-list.php:418
+msgid "Padding Item"
+msgstr "Marge intérieure de l’élément"
+
+#: widgets/pafe-posts-list.php:406
+msgid "Margin Item"
+msgstr "Marges de l’élément"
+
+#: widgets/pafe-posts-list.php:388
+msgid "Post list"
+msgstr "Liste de publications"
+
+#: widgets/pafe-posts-list.php:365
+msgid "List Space"
+msgstr "Espace de liste"
+
+#: widgets/pafe-posts-list.php:199 widgets/pafe-posts-list.php:899
+msgid "Background Type"
+msgstr "Type d’arrière-plan"
+
+#: widgets/pafe-posts-list.php:192
+msgid "Section"
+msgstr "Section"
+
+#: widgets/pafe-posts-list.php:180
+msgid "Show Date"
+msgstr "Afficher la date"
+
+#: widgets/pafe-posts-list.php:169
+msgid "Show Author"
+msgstr "Afficher l’auteur"
+
+#: widgets/pafe-posts-list.php:158
+msgid "Show Excerpt"
+msgstr "Afficher l’extrait"
+
+#: widgets/pafe-posts-list.php:147
+msgid "Title Length"
+msgstr "Longueur du titre"
+
+#: widgets/pafe-posts-list.php:136
+msgid "Show All Button"
+msgstr "Afficher le bouton « Tous »"
+
+#: widgets/pafe-posts-list.php:125
+msgid "Show Filter"
+msgstr "Afficher le filtre"
+
+#: widgets/pafe-posts-list.php:117
+msgid "Title Widget"
+msgstr "Titre du widget"
+
+#: widgets/pafe-countdown-cart.php:76 widgets/pafe-posts-list.php:112
+msgid "General"
+msgstr "Général"
+
+#: widgets/pafe-posts-list.php:104
+msgid "Layout 3"
+msgstr "Mise en page 3"
+
+#: widgets/pafe-posts-list.php:103 widgets/pafe-table.php:58
+msgid "Layout 2"
+msgstr "Mise en page 2"
+
+#: widgets/pafe-posts-list.php:102 widgets/pafe-table.php:57
+msgid "Layout 1"
+msgstr "Mise en page 1"
+
+#: widgets/pafe-posts-list.php:98
+msgid "Layout Type"
+msgstr "Type de mise en page"
+
+#: widgets/pafe-posts-list.php:70
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: widgets/pafe-posts-list.php:39
+msgid "Query"
+msgstr "Requête"
+
+#: widgets/pafe-posts-list.php:8
+msgid "PAFE Posts List"
+msgstr "Liste de publications PAFE"
+
+#: widgets/pafe-vertical-timeline.php:447
+msgid "Vertical line"
+msgstr "Ligne verticale"
+
+#: widgets/pafe-vertical-timeline.php:371
+#: widgets/pafe-vertical-timeline.php:439
+msgid "Input Box Shadow"
+msgstr "Ombre de la zone de saisie"
+
+#: widgets/pafe-vertical-timeline.php:143
+msgid "List"
+msgstr "Liste"
+
+#: widgets/pafe-vertical-timeline.php:96
+msgid "Social Icons"
+msgstr "Icônes sociales"
+
+#: widgets/pafe-hotspot.php:88 widgets/pafe-hotspot.php:107
+#: widgets/pafe-hotspot.php:117 widgets/pafe-table.php:228
+#: widgets/pafe-vertical-timeline.php:74 widgets/pafe-vertical-timeline.php:380
+msgid "Icon"
+msgstr "Icône"
+
+#: widgets/pafe-vertical-timeline.php:71
+msgid "Image or Icon"
+msgstr "Image ou icône"
+
+#: widgets/pafe-vertical-timeline.php:56
+msgid "Button Link"
+msgstr "Lien du bouton"
+
+#: widgets/pafe-vertical-timeline.php:9
+msgid "PAFE Vertical Timeline"
+msgstr "Chronologie verticale PAFE"
+
+#: widgets/pafe-hotspot.php:519 widgets/pafe-image-accordion.php:596
+msgid "Click"
+msgstr "Clic"
+
+#: widgets/pafe-image-accordion.php:585
+msgid "Trigger"
+msgstr "Déclencheur"
+
+#: controls/pafe-form-style.php:483 widgets/pafe-image-accordion.php:562
+#: widgets/pafe-vertical-timeline.php:562
+msgid "Button Padding"
+msgstr "Marges internes du bouton"
+
+#: controls/pafe-form-style.php:321 widgets/pafe-image-accordion.php:469
+#: widgets/pafe-vertical-timeline.php:469
+msgid "Button"
+msgstr "Bouton"
+
+#: widgets/pafe-image-accordion.php:391 widgets/pafe-image-accordion.php:446
+#: widgets/pafe-vertical-timeline.php:150
+msgid "Space Between"
+msgstr "Espace entre"
+
+#: widgets/pafe-image-accordion.php:211 widgets/pafe-posts-list.php:205
+#: widgets/pafe-posts-list.php:905
+msgid "Gradient"
+msgstr "Dégradé"
+
+#: widgets/pafe-image-accordion.php:210 widgets/pafe-posts-list.php:204
+#: widgets/pafe-posts-list.php:904
+msgid "Classic"
+msgstr "Classique"
+
+#: widgets/pafe-image-accordion.php:170
+msgid "Item Width"
+msgstr "Largeur de l’élément"
+
+#: widgets/pafe-image-accordion.php:150
+msgid "Active Width"
+msgstr "Largeur active"
+
+#: widgets/pafe-countdown-cart.php:290 widgets/pafe-image-accordion.php:106
+#: widgets/pafe-posts-list.php:835
+msgid "Height"
+msgstr "Hauteur"
+
+#: widgets/pafe-image-accordion.php:99
+msgid "Container"
+msgstr "Conteneur"
+
+#: widgets/pafe-image-accordion.php:92
+msgid "{{{pafe_image_accordion_item_title}}}"
+msgstr "{{{pafe_image_accordion_item_title}}}"
+
+#: widgets/pafe-image-accordion.php:81 widgets/pafe-vertical-timeline.php:63
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: widgets/pafe-image-accordion.php:71
+msgid "URL"
+msgstr "URL"
+
+#: widgets/pafe-image-accordion.php:8
+msgid "PAFE Image Accordion"
+msgstr "Accordéon d’images PAFE"
+
+#: widgets/pafe-posts-list.php:89 widgets/pafe-product-tabs.php:60
+msgid "Term Not In"
+msgstr "Terme non employé"
+
+#: widgets/pafe-posts-list.php:79 widgets/pafe-product-tabs.php:50
+msgid "Post per page"
+msgstr "Publications par page"
+
+#: widgets/pafe-countdown-cart.php:39 widgets/pafe-product-tabs.php:38
+msgid "Setting"
+msgstr "Réglage"
+
+#: widgets/pafe-product-tabs.php:8
+msgid "PAFE Product Tabs"
+msgstr "Onglets de produit PAFE"
+
+#: widgets/pafe-dual-color-headline.php:336
+msgid "Background Headline After Border"
+msgstr "Arrière-plan du titre après la bordure"
+
+#: widgets/pafe-dual-color-headline.php:263
+msgid "Headline After"
+msgstr "Titre après"
+
+#: widgets/pafe-dual-color-headline.php:223
+msgid "Background Headline Before Border"
+msgstr "Arrière-plan du titre avant la bordure"
+
+#: widgets/pafe-countdown-cart.php:119 widgets/pafe-dual-color-headline.php:210
+#: widgets/pafe-dual-color-headline.php:323 widgets/pafe-posts-list.php:550
+#: widgets/pafe-vertical-timeline.php:236
+msgid "Margin"
+msgstr "Marge"
+
+#: widgets/pafe-dual-color-headline.php:150
+msgid "Headline Before"
+msgstr "Titre avant"
+
+#: widgets/pafe-dual-color-headline.php:139
+msgid "Headline Style"
+msgstr "Style du titre"
+
+#: widgets/pafe-dual-color-headline.php:125
+msgid "span"
+msgstr "span"
+
+#: widgets/pafe-dual-color-headline.php:124
+msgid "div"
+msgstr "div"
+
+#: widgets/pafe-dual-color-headline.php:123
+msgid "h6"
+msgstr "h6"
+
+#: widgets/pafe-dual-color-headline.php:122
+msgid "h5"
+msgstr "h5"
+
+#: widgets/pafe-dual-color-headline.php:121
+msgid "h4"
+msgstr "h4"
+
+#: widgets/pafe-dual-color-headline.php:120
+msgid "h3"
+msgstr "h3"
+
+#: widgets/pafe-dual-color-headline.php:119
+msgid "h2"
+msgstr "h2"
+
+#: widgets/pafe-dual-color-headline.php:118
+msgid "h1"
+msgstr "h1"
+
+#: widgets/pafe-dual-color-headline.php:114
+msgid "HTML Tag"
+msgstr "Balise HTML"
+
+#: widgets/pafe-dual-color-headline.php:101 widgets/pafe-table.php:195
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: widgets/pafe-dual-color-headline.php:85
+msgid "Justified"
+msgstr "Justifié"
+
+#: widgets/pafe-dual-color-headline.php:60
+msgid "Headline-After"
+msgstr "Gros titre - Après"
+
+#: widgets/pafe-dual-color-headline.php:51
+msgid "Headline-Before"
+msgstr "Gros titre - avant"
+
+#: widgets/pafe-dual-color-headline.php:43
+msgid "Headline Content"
+msgstr "Contenu du titre"
+
+#: widgets/pafe-dual-color-headline.php:10
+msgid "PAFE Dual Color Headline"
+msgstr "Gros titre à double couleur PAFE"
+
+#: widgets/pafe-video-playlist.php:262
+msgid "Divider color"
+msgstr "Couleur de séparateur"
+
+#: widgets/pafe-video-playlist.php:247
+msgid "Active Color"
+msgstr "Couleur active"
+
+#: widgets/pafe-progressbar.php:200 widgets/pafe-video-playlist.php:233
+msgid "Background color"
+msgstr "Couleur d’arrière-plan"
+
+#: widgets/pafe-video-playlist.php:226
+msgid "Video Playlist Style"
+msgstr "Style de la liste de lecture vidéo"
+
+#: controls/pafe-form-style.php:81 widgets/pafe-countdown-cart.php:139
+#: widgets/pafe-dual-color-headline.php:77 widgets/pafe-posts-list.php:590
+#: widgets/pafe-posts-list.php:654 widgets/pafe-progressbar.php:138
+#: widgets/pafe-table.php:116 widgets/pafe-table.php:346
+#: widgets/pafe-table.php:422 widgets/pafe-video-playlist.php:166
+msgid "Center"
+msgstr "Centrer"
+
+#: controls/pafe-form-style.php:73 widgets/pafe-countdown-cart.php:131
+#: widgets/pafe-dual-color-headline.php:69 widgets/pafe-posts-list.php:582
+#: widgets/pafe-posts-list.php:646 widgets/pafe-progressbar.php:130
+#: widgets/pafe-table.php:108 widgets/pafe-table.php:338
+#: widgets/pafe-table.php:414 widgets/pafe-video-playlist.php:158
+msgid "Alignment"
+msgstr "Alignement"
+
+#: widgets/pafe-video-playlist.php:126
+msgid "Video Title"
+msgstr "Titre de la vidéo"
+
+#: widgets/pafe-video-playlist.php:119
+msgid "Video URL eg: Youtube, Vimeo,..."
+msgstr "URL de la vidéo ex : YouTube, Vimeo…"
+
+#: widgets/pafe-video-playlist.php:118
+msgid "{{{pafe_video_playlist_item_title}}}"
+msgstr "{{{pafe_video_playlist_item_title}}}"
+
+#: widgets/pafe-dual-color-headline.php:99 widgets/pafe-video-playlist.php:105
+msgid "Link"
+msgstr "Lien"
+
+#: widgets/pafe-video-playlist.php:65 widgets/pafe-video-playlist.php:194
+msgid "Video List Title"
+msgstr "Titre de la liste de vidéos"
+
+#: widgets/pafe-video-playlist.php:59
+msgid "Video Playlist Title"
+msgstr "Titre de la liste de lecture vidéo"
+
+#: widgets/pafe-video-playlist.php:7
+msgid "PAFE Video Playlist"
+msgstr "Liste de lecture vidéo PAFE"
+
+#: widgets/pafe-sales-pop.php:488
+msgid "Image Border Radius"
+msgstr "Rayon de bordure de l’image"
+
+#: widgets/pafe-sales-pop.php:394
+msgid "Close Button"
+msgstr "Bouton de fermeture"
+
+#: widgets/pafe-sales-pop.php:243
+msgid "Position"
+msgstr "Position"
+
+#: widgets/pafe-sales-pop.php:230
+msgid "Z-index"
+msgstr "Index-Z"
+
+#: widgets/pafe-dual-color-headline.php:255
+#: widgets/pafe-dual-color-headline.php:368
+#: widgets/pafe-image-accordion.php:191 widgets/pafe-sales-pop.php:223
+msgid "Box Shadow"
+msgstr "Ombre de la boîte"
+
+#: controls/pafe-form-style.php:153 widgets/pafe-posts-list.php:607
+#: widgets/pafe-sales-pop.php:215 widgets/pafe-sales-pop.php:481
+#: widgets/pafe-table.php:439 widgets/pafe-table.php:502
+#: widgets/pafe-table.php:614 widgets/pafe-table.php:726
+#: widgets/pafe-table.php:848 widgets/pafe-table.php:955
+#: widgets/pafe-vertical-timeline.php:297
+msgid "Border"
+msgstr "Bordure"
+
+#: widgets/pafe-countdown-cart.php:107 widgets/pafe-dual-color-headline.php:198
+#: widgets/pafe-dual-color-headline.php:311
+#: widgets/pafe-image-accordion.php:128 widgets/pafe-posts-list.php:353
+#: widgets/pafe-posts-list.php:395 widgets/pafe-posts-list.php:538
+#: widgets/pafe-posts-list.php:1053 widgets/pafe-sales-pop.php:203
+#: widgets/pafe-table.php:510 widgets/pafe-table.php:622
+#: widgets/pafe-table.php:734 widgets/pafe-table.php:856
+#: widgets/pafe-table.php:963 widgets/pafe-vertical-timeline.php:304
+#: widgets/pafe-video-playlist.php:182
+msgid "Padding"
+msgstr "Marge interne"
+
+#: widgets/pafe-countdown-cart.php:313 widgets/pafe-dual-color-headline.php:231
+#: widgets/pafe-dual-color-headline.php:344
+#: widgets/pafe-image-accordion.php:139 widgets/pafe-image-accordion.php:573
+#: widgets/pafe-posts-list.php:561 widgets/pafe-sales-pop.php:192
+#: widgets/pafe-vertical-timeline.php:315
+#: widgets/pafe-vertical-timeline.php:573
+msgid "Border Radius"
+msgstr "Rayon de bordure"
+
+#: widgets/pafe-countdown-cart.php:361 widgets/pafe-countdown-cart.php:386
+#: widgets/pafe-dual-color-headline.php:189
+#: widgets/pafe-dual-color-headline.php:302
+#: widgets/pafe-image-accordion.php:199 widgets/pafe-image-accordion.php:218
+#: widgets/pafe-image-accordion.php:501 widgets/pafe-image-accordion.php:536
+#: widgets/pafe-posts-list.php:212 widgets/pafe-posts-list.php:470
+#: widgets/pafe-posts-list.php:506 widgets/pafe-sales-pop.php:148
+#: widgets/pafe-vertical-timeline.php:356
+#: widgets/pafe-vertical-timeline.php:424
+#: widgets/pafe-vertical-timeline.php:501
+#: widgets/pafe-vertical-timeline.php:536
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: widgets/pafe-sales-pop.php:139
+msgid "Item"
+msgstr "Élément"
+
+#: widgets/pafe-sales-pop.php:127
+msgid "Max Time (s)"
+msgstr "Durée max. (s)"
+
+#: widgets/pafe-sales-pop.php:116
+msgid "Min Time (s)"
+msgstr "Durée min. (s)"
+
+#: widgets/pafe-sales-pop.php:105
+msgid "Enable Random"
+msgstr "Activer le mode aléatoire"
+
+#: widgets/pafe-sales-pop.php:99
+msgid "Random"
+msgstr "Aléatoire"
+
+#: widgets/pafe-sales-pop.php:92
+msgid "{{{pafe_sales_pop_item_title}}}"
+msgstr "{{{pafe_sales_pop_item_title}}}"
+
+#: widgets/pafe-sales-pop.php:72
+msgid "E.g: 10 hours ago"
+msgstr "Ex : il y a 10 heures"
+
+#: widgets/pafe-sales-pop.php:71 widgets/pafe-sales-pop.php:295
+msgid "Time"
+msgstr "Heure"
+
+#: widgets/pafe-sales-pop.php:45
+msgid "Time (s)"
+msgstr "Durée (s)"
+
+#: widgets/pafe-sales-pop.php:8
+msgid "PAFE Sales Pop"
+msgstr "Fenêtre surgissante de vente PAFE"
+
+#: widgets/pafe-vertical-timeline.php:81 widgets/pafe-vertical-timeline.php:205
+msgid "Date"
+msgstr "Date"
+
+#: widgets/pafe-image-accordion.php:64 widgets/pafe-sales-pop.php:82
+#: widgets/pafe-sales-pop.php:360
+msgid "Description"
+msgstr "Description"
+
+#: inc/features.php:491
+msgid "WooCommerce Sales Funnel"
+msgstr "Tunnel de vente WooCommerce"
+
+#: inc/features.php:411
+msgid "Signature Field"
+msgstr "Champ de signature"
+
+#: inc/features.php:370
+msgid "Woocommerce Checkout"
+msgstr "Commande Woocommerce"
+
+#: inc/features.php:86
+msgid "Dual Color Headline"
+msgstr "Gros titre à double couleur"
+
+#: inc/features.php:79
+msgid "Countdown Cart"
+msgstr "Compte à rebours de panier"
+
+#: inc/features.php:72
+msgid "Sales Pop"
+msgstr "Fenêtre surgissante de vente"
+
+#: inc/features.php:65
+msgid "Posts List"
+msgstr "Liste des publications"
+
+#: inc/features.php:58
+msgid "Image Accordion"
+msgstr "Accordéon d’image"
+
+#: inc/features.php:51
+msgid "Vertical Timeline"
+msgstr "Chronologie verticale"
+
+#: inc/features.php:44 widgets/pafe-video-playlist.php:88
+msgid "Video Playlist"
+msgstr "Liste de lecture vidéo"
+
+#: controls/pafe-form-style.php:40 controls/pafe-tooltip.php:189
+#: widgets/pafe-hotspot.php:547 widgets/pafe-sales-pop.php:165
+#: widgets/pafe-table.php:77 widgets/pafe-table.php:387
+#: widgets/pafe-vertical-timeline.php:334
+msgid "Width"
+msgstr "Largeur"
+
+#: controls/pafe-tooltip.php:177
+msgid "Custom Width"
+msgstr "Largeur personnalisée"
+
+#: inc/features.php:37 widgets/pafe-hotspot.php:397
+msgid "Tooltip"
+msgstr "Infobulle"
+
+#: controls/pafe-form-style.php:197 controls/pafe-form-style.php:415
+#: controls/pafe-form-style.php:462 controls/pafe-tooltip.php:222
+#: widgets/pafe-hotspot.php:575 widgets/pafe-vertical-timeline.php:279
+msgid "Background Color"
+msgstr "Couleur de l’arrière-plan"
+
+#: controls/pafe-tooltip.php:158 widgets/pafe-hotspot.php:529
+msgid "Content Color"
+msgstr "Couleur du contenu"
+
+#: controls/pafe-form-style.php:77 controls/pafe-tooltip.php:147
+#: widgets/pafe-countdown-cart.php:135 widgets/pafe-dual-color-headline.php:73
+#: widgets/pafe-hotspot.php:504 widgets/pafe-posts-list.php:586
+#: widgets/pafe-posts-list.php:650 widgets/pafe-progressbar.php:134
+#: widgets/pafe-sales-pop.php:272 widgets/pafe-sales-pop.php:449
+#: widgets/pafe-table.php:112 widgets/pafe-table.php:342
+#: widgets/pafe-table.php:418 widgets/pafe-video-playlist.php:162
+msgid "Left"
+msgstr "Gauche"
+
+#: controls/pafe-tooltip.php:146 widgets/pafe-hotspot.php:503
+#: widgets/pafe-sales-pop.php:261 widgets/pafe-sales-pop.php:438
+msgid "Bottom"
+msgstr "En bas"
+
+#: controls/pafe-form-style.php:85 controls/pafe-tooltip.php:145
+#: widgets/pafe-countdown-cart.php:143 widgets/pafe-dual-color-headline.php:81
+#: widgets/pafe-hotspot.php:502 widgets/pafe-posts-list.php:594
+#: widgets/pafe-posts-list.php:658 widgets/pafe-progressbar.php:142
+#: widgets/pafe-sales-pop.php:283 widgets/pafe-sales-pop.php:460
+#: widgets/pafe-table.php:120 widgets/pafe-table.php:350
+#: widgets/pafe-table.php:426 widgets/pafe-video-playlist.php:170
+msgid "Right"
+msgstr "Droite"
+
+#: controls/pafe-tooltip.php:144 widgets/pafe-hotspot.php:501
+#: widgets/pafe-sales-pop.php:250 widgets/pafe-sales-pop.php:427
+msgid "Top"
+msgstr "Supérieur"
+
+#: controls/pafe-tooltip.php:140 widgets/pafe-hotspot.php:497
+msgid "Placement"
+msgstr "Positionnement"
+
+#: controls/pafe-tooltip.php:129
+msgid "Fade"
+msgstr "Fondu"
+
+#: controls/pafe-tooltip.php:128
+msgid "Scale"
+msgstr "Redimensionner"
+
+#: controls/pafe-tooltip.php:124
+msgid "Animation Type"
+msgstr "Type d’animation"
+
+#: controls/pafe-tooltip.php:111 widgets/pafe-hotspot.php:471
+msgid "Distance"
+msgstr "Distance"
+
+#: controls/pafe-tooltip.php:99 widgets/pafe-hotspot.php:461
+msgid "Duration (ms)"
+msgstr "Durée (ms)"
+
+#: controls/pafe-particles.php:31 controls/pafe-tooltip.php:31
+#: widgets/pafe-hotspot.php:398
+msgid "This feature only works on the frontend."
+msgstr "Cette fonctionnalité fonctionne uniquement sur l’interface publique."
+
+#: controls/pafe-tooltip.php:28
+msgid "Enable Tooltip"
+msgstr "Activer l’infobulle"
+
+#: controls/pafe-tooltip.php:20
+msgid "PAFE Tooltip"
+msgstr "Infobulle PAFE"
+
+#: controls/controls-manager.php:28 controls/controls-manager.php:30
+#: piotnet-addons-for-elementor.php:161 piotnet-addons-for-elementor.php:163
+msgid "PAFE"
+msgstr "PAFE"
+
+#: widgets/pafe-image-accordion.php:414 widgets/pafe-switch-content.php:452
+#: widgets/pafe-vertical-timeline.php:40 widgets/pafe-vertical-timeline.php:126
+#: widgets/pafe-vertical-timeline.php:248
+msgid "Content"
+msgstr "Contenu"
+
+#: widgets/pafe-countdown-cart.php:181 widgets/pafe-countdown-cart.php:217
+#: widgets/pafe-countdown-cart.php:253 widgets/pafe-dual-color-headline.php:168
+#: widgets/pafe-dual-color-headline.php:281 widgets/pafe-hotspot.php:303
+#: widgets/pafe-image-accordion.php:366 widgets/pafe-image-accordion.php:421
+#: widgets/pafe-image-accordion.php:487 widgets/pafe-image-accordion.php:522
+#: widgets/pafe-posts-list.php:484 widgets/pafe-posts-list.php:521
+#: widgets/pafe-posts-list.php:632 widgets/pafe-posts-list.php:689
+#: widgets/pafe-posts-list.php:726 widgets/pafe-posts-list.php:791
+#: widgets/pafe-posts-list.php:859 widgets/pafe-sales-pop.php:312
+#: widgets/pafe-sales-pop.php:345 widgets/pafe-sales-pop.php:378
+#: widgets/pafe-sales-pop.php:401 widgets/pafe-switch-content.php:396
+#: widgets/pafe-switch-content.php:431 widgets/pafe-switch-content.php:482
+#: widgets/pafe-switch-content.php:517 widgets/pafe-vertical-timeline.php:190
+#: widgets/pafe-vertical-timeline.php:222
+#: widgets/pafe-vertical-timeline.php:265
+#: widgets/pafe-vertical-timeline.php:409
+#: widgets/pafe-vertical-timeline.php:454
+#: widgets/pafe-vertical-timeline.php:487
+#: widgets/pafe-vertical-timeline.php:522 widgets/pafe-video-playlist.php:143
+#: widgets/pafe-video-playlist.php:211
+msgid "Color"
+msgstr "Couleur"
+
+#: widgets/pafe-switch-content.php:337
+msgid "Switch Border Radius"
+msgstr "Rayon de la bordure du commutateur"
+
+#: widgets/pafe-switch-content.php:310
+msgid "Box Around Border Radius"
+msgstr "Rayon de la bordure autour de la boîte"
+
+#: widgets/pafe-switch-content.php:287
+msgid "Margin Bottom"
+msgstr "Marge inférieure"
+
+#: controls/pafe-form-style.php:252 widgets/pafe-countdown-cart.php:84
+#: widgets/pafe-sales-pop.php:154 widgets/pafe-switch-content.php:264
+msgid "Spacing"
+msgstr "Espacement"
+
+#: widgets/pafe-progressbar.php:177 widgets/pafe-sales-pop.php:415
+#: widgets/pafe-switch-content.php:241 widgets/pafe-vertical-timeline.php:387
+msgid "Size"
+msgstr "Taille"
+
+#: widgets/pafe-switch-content.php:226
+msgid "Switch Color"
+msgstr "Couleur du commutateur"
+
+#: widgets/pafe-switch-content.php:211
+msgid "Box Around Color 2"
+msgstr "Couleur 2 autour de la boîte"
+
+#: widgets/pafe-switch-content.php:196
+msgid "Box Around Color 1"
+msgstr "Couleur 1 autour de la boîte"
+
+#: widgets/pafe-switch-content.php:188
+msgid "Switch Button"
+msgstr "Bouton de commutation"
+
+#: widgets/pafe-switch-content.php:114 widgets/pafe-switch-content.php:413
+#: widgets/pafe-switch-content.php:499
+msgid "Section 2"
+msgstr "Section 2"
+
+#: controls/pafe-particles.php:92 controls/pafe-tooltip.php:81
+#: widgets/pafe-hotspot.php:51 widgets/pafe-hotspot.php:444
+#: widgets/pafe-image-accordion.php:47 widgets/pafe-sales-pop.php:54
+#: widgets/pafe-switch-content.php:83 widgets/pafe-switch-content.php:155
+#: widgets/pafe-vertical-timeline.php:87
+msgid "Choose Image"
+msgstr "Choisir une image"
+
+#: controls/pafe-tooltip.php:46 widgets/pafe-hotspot.php:411
+#: widgets/pafe-switch-content.php:64 widgets/pafe-switch-content.php:136
+msgid "Elementor Template"
+msgstr "Modèle Elementor"
+
+#: controls/pafe-tooltip.php:45 controls/pafe-tooltip.php:57
+#: widgets/pafe-hotspot.php:410 widgets/pafe-hotspot.php:420
+#: widgets/pafe-switch-content.php:63 widgets/pafe-switch-content.php:72
+#: widgets/pafe-switch-content.php:135 widgets/pafe-switch-content.php:144
+msgid "Text Editor"
+msgstr "Éditeur de texte"
+
+#: controls/pafe-particles.php:81 controls/pafe-tooltip.php:44
+#: widgets/pafe-hotspot.php:43 widgets/pafe-hotspot.php:109
+#: widgets/pafe-hotspot.php:409 widgets/pafe-sales-pop.php:473
+#: widgets/pafe-switch-content.php:62 widgets/pafe-switch-content.php:134
+#: widgets/pafe-vertical-timeline.php:75 widgets/pafe-vertical-timeline.php:327
+msgid "Image"
+msgstr "Image"
+
+#: controls/pafe-tooltip.php:40 widgets/pafe-hotspot.php:103
+#: widgets/pafe-hotspot.php:405 widgets/pafe-image-accordion.php:206
+#: widgets/pafe-image-accordion.php:592 widgets/pafe-switch-content.php:58
+#: widgets/pafe-switch-content.php:130 widgets/pafe-table.php:54
+#: widgets/pafe-table.php:165
+msgid "Type"
+msgstr "Type"
+
+#: widgets/pafe-hotspot.php:95 widgets/pafe-image-accordion.php:54
+#: widgets/pafe-image-accordion.php:359 widgets/pafe-product-tabs.php:43
+#: widgets/pafe-sales-pop.php:61 widgets/pafe-sales-pop.php:328
+#: widgets/pafe-switch-content.php:49 widgets/pafe-switch-content.php:122
+#: widgets/pafe-switch-content.php:366 widgets/pafe-switch-content.php:641
+#: widgets/pafe-switch-content.php:646 widgets/pafe-vertical-timeline.php:48
+#: widgets/pafe-vertical-timeline.php:50 widgets/pafe-vertical-timeline.php:173
+#: widgets/pafe-video-playlist.php:95
+msgid "Title"
+msgstr "Titre"
+
+#: widgets/pafe-switch-content.php:41 widgets/pafe-switch-content.php:378
+#: widgets/pafe-switch-content.php:464
+msgid "Section 1"
+msgstr "Section 1"
+
+#: widgets/pafe-switch-content.php:10
+msgid "PAFE Switch Content"
+msgstr "Commutateur de contenu PAFE"
+
+#: inc/features.php:30
+msgid "Switch Content"
+msgstr "Bascule de contenu"
+
+#: controls/pafe-tooltip.php:69 controls/pafe-tooltip.php:71
+#: piotnet-addons-for-elementor.php:182 widgets/pafe-hotspot.php:432
+#: widgets/pafe-hotspot.php:434 widgets/pafe-switch-content.php:100
+#: widgets/pafe-switch-content.php:102 widgets/pafe-switch-content.php:172
+#: widgets/pafe-switch-content.php:174
+msgid "Shortcode"
+msgstr "Code court "
+
+#: widgets/pafe-before-after-image-comparison-slider.php:174
+msgid "Click to move"
+msgstr "Cliquez pour déplacer"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:161
+msgid "Move with handle only"
+msgstr "Déplacer uniquement avec la poignée"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:148
+msgid "Move slider on mouse hover"
+msgstr "Déplacer le curseur au survol de la souris"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:135
+msgid "Overlay"
+msgstr "Superposition"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:126
+msgid "After Label"
+msgstr "Libellé après"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:117
+msgid "Before Label"
+msgstr "Libellé avant"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:104
+msgid "Orientation"
+msgstr "Orientation"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:85
+msgid "How much of the before image is visible when the page loads (%)"
+msgstr "Quelle proportion de limage précédente est visible lors du chargement de la page (%)"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:78
+msgid "Options"
+msgstr "Options"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:62
+msgid "After Image"
+msgstr "Image après"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:48
+msgid "Before Image"
+msgstr "Image avant"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:41
+msgid "Images"
+msgstr "Images"
+
+#: widgets/pafe-before-after-image-comparison-slider.php:10
+msgid "PAFE Before After Image Comparison Slider"
+msgstr "Curseur de comparaison d’images avant et après PAFE"
+
+#: inc/features.php:484
+msgid "Sticky Header"
+msgstr "En-tête épinglé"
+
+#: inc/features.php:478
+msgid "Convert Image To Black Or White"
+msgstr "Convertir l’image en noir ou blanc"
+
+#: inc/features.php:472
+msgid "Css Filters"
+msgstr "Filtres CSS"
+
+#: inc/features.php:466
+msgid "Text Color Change on Column Hover"
+msgstr "Couleur du texte au survol de colonne"
+
+#: inc/features.php:448
+msgid "Submit Post"
+msgstr "Envoyer la publication"
+
+#: inc/features.php:460
+msgid "Conditional Visibility"
+msgstr "Visibilité conditionnelle"
+
+#: inc/features.php:454
+msgid "Responsive Custom Positioning"
+msgstr "Positionnement personnalisé responsive"
+
+#: inc/features.php:442
+msgid "Stripe Payment"
+msgstr "Paiement Stripe"
+
+#: inc/features.php:436
+msgid "Multi Step Form"
+msgstr "Formulaire à plusieurs étapes"
+
+#: inc/features.php:429
+msgid "Connect Form to Google Sheets"
+msgstr "Connecter le formulaire à Google Sheets"
+
+#: inc/features.php:363
+msgid "Form Builder"
+msgstr "Constructeur de formulaire"
+
+#: inc/features.php:423
+msgid "Address Autocomplete Field"
+msgstr "Champ d’adresse auto-complété"
+
+#: inc/features.php:417
+msgid "Select Autocomplete Field"
+msgstr "Sélectionnez le champ de saisie automatique"
+
+#: inc/features.php:404
+msgid "Image Select Field"
+msgstr "Champ de sélection d’image"
+
+#: inc/features.php:397
+msgid "Range Slider Field"
+msgstr "Champ de curseur de gamme"
+
+#: inc/features.php:390
+msgid "Calculated Fields Form"
+msgstr "Champs calculés de formulaire"
+
+#: inc/features.php:384
+msgid "PAFE Form Builder Conditional Logic"
+msgstr "Logique conditionnelle pour le constructeur de formulaire PAFE"
+
+#: inc/features.php:377
+msgid "Conditional Logic Form"
+msgstr "Formulaire à logique conditionnelle"
+
+#: inc/features.php:356
+msgid "Crossfade Multiple Background Images"
+msgstr "Fondu enchaîné d’images d’arrière-plan"
+
+#: inc/features.php:349
+msgid "Ajax Live Search"
+msgstr "Recherche directe Ajax"
+
+#: inc/features.php:342
+msgid "Scroll Box With Custom Scrollbar"
+msgstr "Boîte de défilement avec barre de défilement personnalisée"
+
+#: inc/features.php:335
+msgid "Toggle Content"
+msgstr "Contenu de la bascule"
+
+#: inc/features.php:328
+msgid "Advanced Nav Menu Styling"
+msgstr "Style de menu de navigation avancé"
+
+#: inc/features.php:322
+msgid "Popup Trigger URL"
+msgstr "URL du déclencheur de fenêtre surgissante"
+
+#: inc/features.php:316
+msgid "Slider Builder"
+msgstr "Constructeur de diaporama"
+
+#: inc/features.php:310
+msgid "Column Aspect Ratio"
+msgstr "Ratio d’aspect de la colonne"
+
+#: inc/features.php:303
+msgid "Close First Accordion"
+msgstr "Fermer le premier accordéon"
+
+#: inc/features.php:297
+msgid "Responsive Section Column Text Align"
+msgstr "Alignement du texte des colonnes des sections responsives"
+
+#: inc/features.php:291
+msgid "Advanced Dots Styling"
+msgstr "Style de points avancé"
+
+#: inc/features.php:285
+msgid "Advanced Tabs Styling"
+msgstr "Style d’onglets avancé"
+
+#: inc/features.php:279
+msgid "Advanced Form Styling"
+msgstr "Style de formulaire avancé"
+
+#: inc/features.php:273
+msgid "Media Carousel Aspect Ratio"
+msgstr "Ratio d’aspect du carrousel de médias"
+
+#: inc/features.php:267
+msgid "Responsive Gallery Images Spacing"
+msgstr "Espacement d’images de galerie responsive"
+
+#: inc/features.php:261
+msgid "Responsive Gallery Column Width"
+msgstr "Largeur de colonne de galerie responsive"
+
+#: inc/features.php:255
+msgid "Lightbox Garllery Masonry"
+msgstr "Visionneuse de galerie masonry"
+
+#: inc/features.php:249
+msgid "Lightbox Image"
+msgstr "Visionneuse d’image"
+
+#: inc/features.php:242
+msgid "Navigation Arrows Icon"
+msgstr "Icône de flèches de navigation"
+
+#: inc/features.php:235
+msgid "Font Awesome 5"
+msgstr "Font Awesome 5"
+
+#: inc/features.php:229
+msgid "Responsive Hide Column"
+msgstr "Masquage responsive de la colonne"
+
+#: inc/features.php:223
+msgid "Responsive Column Order"
+msgstr "Tri responsive de la colonne"
+
+#: inc/features.php:216
+msgid "Parallax Background"
+msgstr "Arrière-plan parallaxe"
+
+#: inc/features.php:210 widgets/pafe-countdown-cart.php:326
+msgid "Max Width"
+msgstr "Largeur maximale"
+
+#: inc/features.php:203
+msgid "Column Link"
+msgstr "Lien de colonne"
+
+#: inc/features.php:196
+msgid "Section Link"
+msgstr "Lien de section"
+
+#: inc/features.php:190
+msgid "Display Inline Block"
+msgstr "Afficher le bloc en ligne"
+
+#: inc/features.php:184
+msgid "Absolute Positioning"
+msgstr "Position absolue"
+
+#: inc/features.php:178
+msgid "Multiple Background Images"
+msgstr "Images d’arrière-plan multiples"
+
+#: inc/features.php:172
+msgid "Responsive Background"
+msgstr "Arrière-plan responsive"
+
+#: inc/features.php:166
+msgid "Responsive Border Width"
+msgstr "Largeur de la bordure responsive"
+
+#: inc/features.php:160
+msgid "Column Width ( Pixel, %, calc )"
+msgstr "Largeur de colonne (pixel, %, calc)"
+
+#: inc/features.php:153
+msgid "Equal Height For Woocommerce Products"
+msgstr "Hauteur égale pour les produits WooCommerce"
+
+#: inc/features.php:146
+msgid "Equal Height For CTA"
+msgstr "Hauteur égale pour CTA"
+
+#: inc/features.php:139
+msgid "Equal Height"
+msgstr "Hauteur égale"
+
+#: inc/features.php:132
+msgid "Custom Media Query Breakpoints"
+msgstr "Points de rupture responsive personnalisés"
+
+#: inc/features.php:23
+msgid "Before After Image Comparison Slider"
+msgstr "Diaporama de comparaison d’image avant/après"
+
+#: inc/features.php:16
+msgid "Image Carousel Multiple Custom Urls"
+msgstr "URL personnalisées multiples du carrousel d’images"
+
+#: inc/features.php:10
+msgid "Gradient Button"
+msgstr "Bouton dégradé"
+
+#: inc/features.php:4
+msgid "Gradient Text"
+msgstr "Texte dégradé"
+
+#: inc/admin-page.php:104
+msgid "to enable all features and receive new updates. Status: "
+msgstr "pour activer toutes les fonctionnalités et recevoir de nouvelles mises à jour. État :"
+
+#: inc/admin-page.php:104
+msgid "Enter Your Account at"
+msgstr "Saisir votre compte sur"
+
+#: inc/admin-page.php:22 inc/admin-page.php:68
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+#: piotnet-addons-for-elementor.php:325
+msgid "PAFE Free Widgets"
+msgstr "Widgets PAFE gratuits"
+
+#: piotnet-addons-for-elementor.php:257 widgets/pafe-image-accordion.php:39
+#: widgets/pafe-sales-pop.php:39
+msgid "Settings"
+msgstr "Réglages"
+
+#: piotnet-addons-for-elementor.php:266
+msgid "Video Tutorials"
+msgstr "Tutoriels vidéo"
+
+#: piotnet-addons-for-elementor.php:258
+msgid "Go Pro"
+msgstr "Passer à PRO"
+
+#. Author URI of the plugin
+msgid "https://piotnet.com/"
+msgstr "https://piotnet.com/"
+
+#. Description of the plugin
+msgid "Piotnet Addons For Elementor (PAFE) adds many new features for Elementor"
+msgstr "Piotnet Addons For Elementor (PAFE) ajoute de nombreuses nouvelles fonctionnalités à Elementor"
+
+#. Plugin URI of the plugin
+msgid "https://pafe.piotnet.com/"
+msgstr "https://pafe.piotnet.com/"
+
+#: piotnet-addons-for-elementor.php:247
+msgid "PHP"
+msgstr "PHP"
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: piotnet-addons-for-elementor.php:229 piotnet-addons-for-elementor.php:245
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "« %1$s » nécessite « %2$s » version %3$s ou supérieure."
+
+#: piotnet-addons-for-elementor.php:216 piotnet-addons-for-elementor.php:231
+msgid "Elementor"
+msgstr "Elementor"
+
+#. Plugin Name of the plugin
+#: piotnet-addons-for-elementor.php:215 piotnet-addons-for-elementor.php:230
+#: piotnet-addons-for-elementor.php:246
+msgid "Piotnet Addons For Elementor"
+msgstr "Piotnet Addons For Elementor"
+
+#: piotnet-addons-for-elementor.php:214
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "« %1$s » nécessite que « %2$s » soit installé et activé."
+
+#: controls/pafe-image-carousel-multiple-custom-urls.php:37
+msgid "When adding/editing the Image Carousel element in Elementor, set Link to Custom URL. Then in the field that appears, enter each of your URLs, separated by commas.<br><br> Note that currently effect are not visible in edit/preview mode & can only be viewed on the frontend. "
+msgstr "Lors de l’ajout/édition de l’élément carrousel d’images dans Elementor, définir Lien vers URL personnalisée. Ensuite, dans le champ qui apparaît, entrez chacune de vos URL, séparées par des virgules.<br><br> Notez que les effets actuels ne sont pas visibles en mode édition/prévisualisation et peuvent uniquement être visualisés sur l’interface utilisateur. "
+
+#: controls/pafe-image-carousel-multiple-custom-urls.php:28
+msgid "PAFE Image Carousel Multiple Custom Urls"
+msgstr "URL personnalisées multiples de carrousel d’images PAFE"
+
+#: controls/pafe-gradient-text.php:26
+msgid "Enable Gradient Text"
+msgstr "Activer le dégradé de texte"
+
+#: controls/pafe-gradient-text.php:18
+msgid "PAFE Gradient Text"
+msgstr "Dégradé de texte PAFE"
+
+#: controls/pafe-gradient-button.php:181 widgets/pafe-hotspot.php:518
+#: widgets/pafe-image-accordion.php:516 widgets/pafe-image-accordion.php:597
+#: widgets/pafe-posts-list.php:500 widgets/pafe-posts-list.php:703
+#: widgets/pafe-posts-list.php:875 widgets/pafe-vertical-timeline.php:516
+msgid "Hover"
+msgstr "Au survol"
+
+#: controls/pafe-gradient-button.php:163 controls/pafe-gradient-button.php:304
+#: controls/pafe-gradient-text.php:154 widgets/pafe-image-accordion.php:344
+#: widgets/pafe-posts-list.php:338 widgets/pafe-posts-list.php:1038
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr "Inférieur droit"
+
+#: controls/pafe-gradient-button.php:162 controls/pafe-gradient-button.php:303
+#: controls/pafe-gradient-text.php:153 widgets/pafe-image-accordion.php:343
+#: widgets/pafe-posts-list.php:337 widgets/pafe-posts-list.php:1037
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr "Inférieur gauche"
+
+#: controls/pafe-gradient-button.php:161 controls/pafe-gradient-button.php:302
+#: controls/pafe-gradient-text.php:152 widgets/pafe-image-accordion.php:342
+#: widgets/pafe-posts-list.php:336 widgets/pafe-posts-list.php:1036
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr "Inférieur centré"
+
+#: controls/pafe-gradient-button.php:160 controls/pafe-gradient-button.php:301
+#: controls/pafe-gradient-text.php:151 widgets/pafe-image-accordion.php:341
+#: widgets/pafe-posts-list.php:335 widgets/pafe-posts-list.php:1035
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr "Supérieur droit"
+
+#: controls/pafe-gradient-button.php:159 controls/pafe-gradient-button.php:300
+#: controls/pafe-gradient-text.php:150 widgets/pafe-image-accordion.php:340
+#: widgets/pafe-posts-list.php:334 widgets/pafe-posts-list.php:1034
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr "Supérieur gauche"
+
+#: controls/pafe-gradient-button.php:158 controls/pafe-gradient-button.php:299
+#: controls/pafe-gradient-text.php:149 widgets/pafe-image-accordion.php:339
+#: widgets/pafe-posts-list.php:333 widgets/pafe-posts-list.php:1033
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr "Supérieur centré"
+
+#: controls/pafe-gradient-button.php:157 controls/pafe-gradient-button.php:298
+#: controls/pafe-gradient-text.php:148 widgets/pafe-image-accordion.php:338
+#: widgets/pafe-posts-list.php:332 widgets/pafe-posts-list.php:1032
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr "Centré à droite"
+
+#: controls/pafe-gradient-button.php:156 controls/pafe-gradient-button.php:297
+#: controls/pafe-gradient-text.php:147 widgets/pafe-image-accordion.php:337
+#: widgets/pafe-posts-list.php:331 widgets/pafe-posts-list.php:1031
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr "Centré à gauche"
+
+#: controls/pafe-gradient-button.php:155 controls/pafe-gradient-button.php:296
+#: controls/pafe-gradient-text.php:146 widgets/pafe-image-accordion.php:336
+#: widgets/pafe-posts-list.php:330 widgets/pafe-posts-list.php:1030
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr "Centré au centre"
+
+#: controls/pafe-gradient-button.php:152 controls/pafe-gradient-button.php:293
+#: controls/pafe-gradient-text.php:143 widgets/pafe-image-accordion.php:333
+#: widgets/pafe-posts-list.php:327 widgets/pafe-posts-list.php:1027
+msgctxt "Background Control"
+msgid "Position"
+msgstr "Position"
+
+#: controls/pafe-gradient-button.php:127 controls/pafe-gradient-button.php:268
+#: controls/pafe-gradient-text.php:118 widgets/pafe-image-accordion.php:310
+#: widgets/pafe-posts-list.php:304 widgets/pafe-posts-list.php:1004
+msgctxt "Background Control"
+msgid "Angle"
+msgstr "Angle"
+
+#: controls/pafe-gradient-button.php:114 controls/pafe-gradient-button.php:255
+#: controls/pafe-gradient-text.php:105 widgets/pafe-image-accordion.php:298
+#: widgets/pafe-posts-list.php:292 widgets/pafe-posts-list.php:992
+msgctxt "Background Control"
+msgid "Radial"
+msgstr "Radial"
+
+#: controls/pafe-gradient-button.php:113 controls/pafe-gradient-button.php:254
+#: controls/pafe-gradient-text.php:104 widgets/pafe-image-accordion.php:297
+#: widgets/pafe-posts-list.php:291 widgets/pafe-posts-list.php:991
+msgctxt "Background Control"
+msgid "Linear"
+msgstr "Linéaire"
+
+#: controls/pafe-gradient-button.php:110 controls/pafe-gradient-button.php:251
+#: controls/pafe-gradient-text.php:101 widgets/pafe-image-accordion.php:294
+#: widgets/pafe-posts-list.php:288 widgets/pafe-posts-list.php:988
+msgctxt "Background Control"
+msgid "Type"
+msgstr "Type"
+
+#: controls/pafe-gradient-button.php:80 controls/pafe-gradient-button.php:221
+#: controls/pafe-gradient-text.php:71 widgets/pafe-image-accordion.php:266
+#: widgets/pafe-posts-list.php:260 widgets/pafe-posts-list.php:960
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr "Seconde couleur"
+
+#: controls/pafe-gradient-button.php:63 controls/pafe-gradient-button.php:93
+#: controls/pafe-gradient-button.php:204 controls/pafe-gradient-button.php:234
+#: controls/pafe-gradient-text.php:54 controls/pafe-gradient-text.php:84
+#: widgets/pafe-image-accordion.php:250 widgets/pafe-image-accordion.php:278
+#: widgets/pafe-posts-list.php:244 widgets/pafe-posts-list.php:272
+#: widgets/pafe-posts-list.php:944 widgets/pafe-posts-list.php:972
+msgctxt "Background Control"
+msgid "Location"
+msgstr "Emplacement"
+
+#: controls/pafe-gradient-button.php:50 controls/pafe-gradient-button.php:191
+#: controls/pafe-gradient-text.php:41 widgets/pafe-image-accordion.php:238
+#: widgets/pafe-posts-list.php:232 widgets/pafe-posts-list.php:932
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: controls/pafe-gradient-button.php:47 controls/pafe-gradient-button.php:188
+#: controls/pafe-gradient-text.php:38 widgets/pafe-image-accordion.php:235
+#: widgets/pafe-posts-list.php:229 widgets/pafe-posts-list.php:929
+msgctxt "Background Control"
+msgid "Color"
+msgstr "Couleur"
+
+#: controls/pafe-gradient-button.php:40 widgets/pafe-image-accordion.php:480
+#: widgets/pafe-posts-list.php:464 widgets/pafe-vertical-timeline.php:480
+msgid "Normal"
+msgstr "Normal"
+
+#: controls/pafe-gradient-button.php:26
+msgid "Enable Gradient Button"
+msgstr "Activer le dégradé du bouton "
+
+#: controls/pafe-gradient-button.php:18
+msgid "PAFE Gradient Button"
+msgstr "Dégradé de bouton PAFE"

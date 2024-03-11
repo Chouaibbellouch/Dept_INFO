@@ -1,0 +1,19 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_bosa-education-hub">
+            <key name="featured_pages_section_title" />
+            <key name="featured_pages_section_description" />
+            <key name="feature_posts_two_section_title" />
+            <key name="feature_posts_two_section_description" />
+            <key name="header_advertisement_text" />
+            <key name="fact_one_title" />
+            <key name="fact_one_content" />
+            <key name="fact_two_title" />
+            <key name="fact_two_content" />
+            <key name="fact_three_title" />
+            <key name="fact_three_content" />
+            <key name="fact_four_title" />
+            <key name="fact_four_content" />
+        </key>
+    </admin-texts>
+</wpml-config>

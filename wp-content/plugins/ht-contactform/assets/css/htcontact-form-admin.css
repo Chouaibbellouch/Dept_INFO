@@ -1,0 +1,118 @@
+.htcontact-form-features-area{
+    margin: 10px 20px 0 2px
+}
+.htcontact-form-features-area{
+	display: flex;
+}
+.htcontact-form-features-area > div{
+    background: #fff;
+    font-size: 14px;
+    line-height: 24px;
+    color: #444444;
+    padding: 30px;
+    box-shadow: 0 0 28px rgb(0 0 0 / 10%);
+}
+.htcontact-form-features-area > div > h2{
+	font-size: 24px;
+    margin-top: 0;
+}
+.htcontact-form-free-features {
+    flex: 0 0 70%;
+}
+.htcontact-form-features {
+    margin-bottom: 20px;
+}
+ul.htcontact-form-feature-list{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ul.htcontact-form-feature-list li {
+    position: relative;
+    margin: 0;
+    padding: 0 0 0 30px;
+}
+ul.htcontact-form-feature-list li::before {
+    position: absolute;
+    content: url(../images/icon/check.png);
+    width: 15px;
+    height: 20px;
+    top: 4px;
+    left: 0;
+    margin: 0;
+}
+a.htcontact-form-btn {
+    background: #2bc48a;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    border: 1px solid #2bc48a;
+    padding: 5px 5px 5px 20px;
+    border-radius: 25px;
+    outline: 0;
+    transition: 0.4s;
+    display: inline-block;
+    text-decoration: none;
+    transition: 0.4s;
+}
+a.htcontact-form-btn:hover {
+    background: #3aab80;
+    box-shadow: 0 0 28px rgb(0 0 0 / 10%);
+}
+a.htcontact-form-btn .htcontact-form-btn-icon {
+    width: 35px;
+    height: 35px;
+    background-color: #fff;
+    border-radius: 100%;
+    display: inline-block;
+    text-align: center;
+    line-height: 35px;
+    margin-left: 15px;
+}
+.htcontact-form-features-area > div.htcontact-form-pro-features {
+    margin-left: 20px;
+    height: 300px;
+    background: #2bc48a;
+    color: #fff;
+}
+.htcontact-form-features-area > div.htcontact-form-pro-features h2{
+	color: #fff;
+}
+.htcontact-form-pro-features ul.htcontact-form-feature-list li::before{
+	content: url(../images/icon/white-check.png);
+}
+.htcontact-form-pro-features a.htcontact-form-btn{
+	background-color: #fff;
+	color: #222;
+}
+.htcontact-form-pro-features a.htcontact-form-btn .htcontact-form-btn-icon{
+	background-color: #2bc48a;
+}
+.htcontact-form-pro-features a.htcontact-form-btn:hover{
+	color: #2bc48a;
+}
+
+/*
+* Responsive CSS Here 
+*/
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+	.htcontact-form-features-area {
+	    flex-flow: column;
+	}
+	.htcontact-form-pro-features {
+	    margin-left: 0;
+	    margin-top: 20px;
+	}
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
